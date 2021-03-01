@@ -1,12 +1,10 @@
 # kanye-unsplash
-
 An experiental project combining Kanye West's Quote API and Unsplash Image API.
 
 # Website
-
 https://abjt14.github.io/kanye-unsplash/
 
-#APIs Used
+# APIs Used
 kanye.rest - https://kanye.rest/
 Unsplash Source - https://source.unsplash.com/
 
