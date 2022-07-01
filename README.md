@@ -2,7 +2,7 @@
 An experiental project combining Kanye West's Quote API and Unsplash Image API.
 
 # Website
-https://abjt14.github.io/kanye-unsplash/
+https://abjt14.github.io/ye-unsplash/
 
 # APIs Used
 [kanye.rest](https://kanye.rest/ )
